@@ -56,7 +56,6 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 - **Tech Stack:** Python, NLP, LLMs, Power BI, Fine-tuning (SFT, LORA)
 - **Impact:** 20% improvement in model performance, real-time customer feedback analysis
 - **Features:** Automated sentiment tracking, theme extraction, stakeholder reporting
-- **Github:** `https://github.com/sontung2310/Sentiment-Analysis-in-Healthcare.git`
 
 ### 🧋 AI-Agent: Bubble Tea Sales
 
