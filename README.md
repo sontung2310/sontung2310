@@ -33,24 +33,8 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
 
-## 💼 Professional Experience
 
-### 🔬 Data Scientist @ DataBytes (Feb 2025 - Jun 2025)
-- Developed **sentiment analysis systems** using fine-tuned LLMs for healthcare customer feedback
-- Achieved **20% improvement in F1 score** through advanced model optimization techniques
-- Built **real-time reporting dashboards** for automated customer sentiment tracking
-
-### 🤖 AI Engineer @ ELCOM Corp (Apr 2022 - Feb 2024)
-- Developed **on-premises chatbots** for specific domains with limited computational resources and built automated data pipelines for large-scale processing
-- Trained and fine-tuned **ML models** with custom datasets, evaluating performance using technical and business metrics, then optimized and deployed on edge devices and cloud platforms
-- Applied **NLP techniques** to extract insights from unstructured text data and created interactive dashboards for reporting
-
-### 🤖 AI Engineer @ Samsung Display Vietnam (Dec 2020 - Apr 2022)
-- Led team of 4 on **computer vision project** for manufacturing defect detection
-- Achieved **80% cost reduction** through AI-powered quality control automation
-- Integrated ML models into production workflows, replacing manual processes
-
-## 🎯 Key Projects
+## 🎯 Personal Projects
 
 ### 🏥 Healthcare Sentiment Analysis System
 - **Tech Stack:** Python, NLP, LLMs, Power BI, Fine-tuning (SFT, LORA)
