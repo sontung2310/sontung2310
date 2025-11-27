@@ -28,9 +28,13 @@ Tech stack: YOLO, SAM, OpenCV, TensorRT, ONNX.
 - Deployed a Social Listening system that crawls social network data and applies LLMs to deliver insights on keyword trends, brand reputation, and customer campaign reactions. Delivered an interactive dashboard for real-time analysis and monitoring.
 
 ### AI Engineer @ Samsung Display Vietnam (Dec 2020 - Apr 2022)
-- Led team of 4 on **computer vision project** for manufacturing defect detection
-- Achieved **80% cost reduction** through AI-powered quality control automation
-- Integrated ML models into production workflows, replacing manual processes
+- Led team of 4 engineers to develop Deep Learning solution for automated defect detection in mobile display 
+manufacturing, replacing manual inspection process.
+- Deployed Transfer Learning-based UNet and YOLO models for marked region detection/segmentation on edge 
+devices, achieving 95% detection accuracy.
+- Reduced manufacturing costs by 80% through minimizing false positive rates and eliminating manual quality control 
+labor.
+- Optimized models for real-time edge deployment using TensorRT and embedded systems integration.
 
 ## 🛠️ Technical Skills
 
