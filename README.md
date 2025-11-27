@@ -2,12 +2,35 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of Applied Artificial Intelligence at Deakin University with a High Distinction average (8.8/10). With 3 years of professional experience, I'm passionate about using data science and AI to solve real-world problems and create meaningful impact.
+I am an **AI Engineer** with 5 years of experience in Computer Vision and 2 years in NLP and Large Language Models, holding a Master’s degree in Artificial Intelligence. I specialize in solving business problems across multiple AI domains, including vision, language, and time-series, and deploying solutions to production environments. I work effectively both independently and as part of a team, with a strong passion for continuous learning.
 
-🎓 **Currently:** Master of Applied AI  
-💼 **Experience:** 3 years in data science, AI engineering, and analytics  
-🌍 **Location:** Melbourne, Victoria, Australia  
-📫 **Contact:** buisontung2310@gmail.com
+## 💼 Professional Experience
+
+### Research Assistant @ Deakin University (Jun 2025 - Present)
+- Developed novel Generative AI pipeline combining LISA (Vision-Language Model) for automated object 
+segmentation and Stable Diffusion fine-tuned with DreamBooth for synthetic dataset generation, achieving 50% 
+improvement in data quality for wildlife detection models.
+- Reduced ecological dataset collection costs by leveraging generative data augmentation to overcome camera-trap 
+variability in conservation applications.
+- Developed and optimized YOLO models for wildlife detection, enhancing dataset diversity and supporting 
+conservation-focused AI applications in Australia.
+
+### AI Engineer @ DataBytes (Feb 2025 - Sep 2025)
+- Developed a multi-agent AI tutoring system that guides users through solving LeetCode/HackerRank problems step-by-step, providing idea generation, code review, and optimisation feedback rather than direct answers.
+- Engineered a multi-modal workflow that supports text and screenshot inputs, built a crawler to ingest problems into MongoDB, and developed a recommendation pipeline that selects problems based on user preferences such as topic and difficulty.
+- Delivered a streamlined Streamlit interface and implemented user-level analytics to track progress, visualise solved problems, and personalise each user’s learning experience.
+
+### AI Engineer @ ELCOM Corp (Apr 2022 - Feb 2024)
+- Delivered on-premises chatbots for customers across multiple domains, enabling reliable and scalable enterprise solutions with domain-specific knowledge integration.
+Tech stack: Vector databases (MongoDB, ElasticSearch), LLMs (Llama-2-13B), vLLM (serving), LangChain/LangGraph (workflow orchestration), Retrieval-Augmented Generation, Prompt Engineering
+- Implemented ML models supporting Intelligent Transport System features including traffic violation detection and electronic toll collection systems deployed widely across Vietnam's highway network.
+Tech stack: YOLO, SAM, OpenCV, TensorRT, ONNX.
+- Deployed a Social Listening system that crawls social network data and applies LLMs to deliver insights on keyword trends, brand reputation, and customer campaign reactions. Delivered an interactive dashboard for real-time analysis and monitoring.
+
+### AI Engineer @ Samsung Display Vietnam (Dec 2020 - Apr 2022)
+- Led team of 4 on **computer vision project** for manufacturing defect detection
+- Achieved **80% cost reduction** through AI-powered quality control automation
+- Integrated ML models into production workflows, replacing manual processes
 
 ## 🛠️ Technical Skills
 
@@ -36,31 +59,32 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 
 ## 🎯 Personal Projects
 
-### 🏥 Healthcare Sentiment Analysis System
-- **Tech Stack:** Python, NLP, LLMs, Power BI, Fine-tuning (SFT, LORA)
-- **Impact:** 20% improvement in model performance, real-time customer feedback analysis
-- **Features:** Automated sentiment tracking, theme extraction, stakeholder reporting
+### Real-Time AFL Player Tracking and Insight Platform
+- Integrated SAM2 with Ultralytics for automatic frame annotation, training YOLO11 for player and ball detection, 
+and applied ByteTrack for multi-object tracking.
+- Developed additional OCR models for recognition of player jersey numbers, enhancing automated game analytics.
+- Developed post-analysis features including automatic player-focused camera generation, player heatmaps, and 
+performance statistics to support data-driven insights for coaches and analysts.
+**Tech Stack:** YOLO, ByteTrack, SAM2, Ultralytics
 
-### 🧋 AI-Agent: Bubble Tea Sales
-
-- **Tech Stack**: LangGraph, Gemini API, Gradio
-- **Impact:**: Intelligent sales automation with conversational ordering experience
-- **Features:** Menu display, personalized drink consultation, order management (add/remove items), size/ice/sugar/topping customization, real-time order tracking
-
-### 💻 Smart E-commerce Laptop Recommendation ChatBot
-
-- **Tech Stack:** Large Language Models, Voice Recognition, Retrivel-Augmentation Generation, Conversational AI
-- **Impact:**: Personalized product recommendations with multi-modal interaction
-- **Features:** Intelligent laptop recommendations based on user requirements, product suitability explanations, casual conversation capabilities, text and voice interaction support
-
-### 📱 Social Media Listening
-- **Tech Stack:** Python, SQL, Spark, Apache Kafka, Power BI, Web Scraping
-- **Impact:** Automated end-to-end data processing for social media insights
-- **Features:** Real-time data ingestion, Sentiment analysis, Keyword and Hashtag Tracking, Influencer Tracking
-
+### AI-Powered Retail Product Monitoring System
+- Trained a YOLO model on custom product datasets for accurate product detection.
+- Developed real-time monitoring features: alerts for mis-placed products, low-stock/out-of-stock warnings.
+- Optimized models using TensorRT 8-bit quantization for edge devices and deployed them with Triton Inference 
+Server for fast, scalable inference.
+**Tech Stack:** YOLO, FAISS, TensorRT, Triton Inference Server
+  
+### AI-based Video Analysis for Traffic Monitoring
+- Built comprehensive traffic monitoring system with vehicle detection, tracking, and attribute extraction (class, color, 
+direction, license plate).
+- Implemented DeepSORT for multi-object tracking and OCR for license plate recognition with 88% accuracy.
+- Developed search functionality enabling queries by vehicle attributes and automated video summarization reducing 
+review time by 75%.
+**Tech Stack:** YOLO, DeepSORT, OCR
 
 ## 🏆 Certifications
 
+- 📜 **DeepLearning.AI Certificate**: Agentic AI, AI Agents in LangGraph.
 - 📜 **Microsoft Azure AI Fundamentals (AI-900)**
 - 📜 **Microsoft Azure AI Engineer Associate (AI-102)**
 
@@ -83,5 +107,3 @@ I'm always interested in collaborating on data science and AI projects, especial
 ---
 
 ⭐ **Fun Fact:** I speak English, Vietnamese, and Korean, and I love exploring how AI can bridge language barriers and create more inclusive technology solutions!
-
-*"Data is the new oil, but insights are the refined fuel that drives innovation."*
