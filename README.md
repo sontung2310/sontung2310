@@ -1,4 +1,4 @@
-# Hi there, I'm Son Tung! 👋
+# Hi there, I'm Tony Bui! 👋
 
 ## 🚀 About Me
 
