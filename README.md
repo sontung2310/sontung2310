@@ -73,6 +73,7 @@ labor.
 - Built an Agentic AI Learning Companion that transforms long lecture videos into structured, searchable knowledge with LLM-powered Q&A across course materials.
 - Designed a production-ready AI architecture with FastAPI (API layer), LiteLLM (LLM gateway), NVIDIA NeMo Guardrails (safety), Langfuse (observability), and RAG using ChromaDB.
 - Developed a data ingestion pipeline with Airflow to process lecture video/text data, generate embeddings, and store them in a vector database for retrieval.
+  
 **Tech Stack:** CrewAI, ChromaDB, LiteLLM, Redis, FastAPI, Airflow
  
 ### Real-Time AFL Player Tracking and Insight Platform
@@ -80,12 +81,14 @@ labor.
 - Applied ByteTrack for multi-object tracking to follow players across frames in real-time sports footage.
 - Developed OCR models to recognize player jersey numbers for enhanced automated game analytics.
 - Built post-analysis features including player-focused camera generation, heatmaps, and performance statistics for coaching insights.
+  
 **Tech Stack:** YOLO, ByteTrack, SAM2, Ultralytics
  
 ### AI-based Video Analysis for Traffic Monitoring
 - Developed a comprehensive traffic monitoring system with vehicle detection, tracking, and attribute extraction (class, color, direction, license plate).
 - Implemented DeepSORT for multi-object tracking and OCR for license plate recognition achieving **88% accuracy**.
 - Built search functionality enabling queries by vehicle attributes and automated video summarization reducing review time by **75%**.
+  
 **Tech Stack:** YOLO, DeepSORT, OCR
 
 ## 🏆 Certifications
