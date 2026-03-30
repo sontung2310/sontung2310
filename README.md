@@ -6,28 +6,26 @@ I am an **AI Engineer** with 5 years of experience in Computer Vision and 2 year
 
 ## 💼 Professional Experience
 
-### Research Assistant @ Deakin University (Jun 2025 - Present)
-- Developed novel Generative AI pipeline combining LISA (Vision-Language Model) for automated object 
-segmentation and Stable Diffusion fine-tuned with DreamBooth for synthetic dataset generation, achieving 50% 
-improvement in data quality for wildlife detection models.
-- Reduced ecological dataset collection costs by leveraging generative data augmentation to overcome camera-trap 
-variability in conservation applications.
-- Developed and optimized YOLO models for wildlife detection, enhancing dataset diversity and supporting 
-conservation-focused AI applications in Australia.
+### Research Assistant @ Deakin University (Feb 2025 - Feb 2026)
+- Developed a Generative AI pipeline combining LISA (Vision-Language Model) for automated segmentation and Stable Diffusion with DreamBooth for synthetic dataset generation, achieving 50% improvement in dataset quality for wildlife detection models.
+- Developed and optimized YOLO-based models for wildlife detection, supporting conservation-focused AI applications in Australia.
+- Reduced ecological dataset collection costs by leveraging generative data augmentation to overcome camera-trap variability.
 
-### AI Engineer @ DataBytes (Feb 2025 - Sep 2025)
-- Developed a multi-agent AI tutoring system that guides users through solving LeetCode/HackerRank problems step-by-step, providing idea generation, code review, and optimisation feedback rather than direct answers.
-- Engineered a multi-modal workflow that supports text and screenshot inputs, built a crawler to ingest problems into MongoDB, and developed a recommendation pipeline that selects problems based on user preferences such as topic and difficulty.
-- Delivered a streamlined Streamlit interface and implemented user-level analytics to track progress, visualise solved problems, and personalise each user’s learning experience.
+### AI Engineer @ DataBytes (Feb 2025 - Jun 2025)
+Team Leader — Capstone Project
+- Implemented a real-time sentiment analysis system processing customer communications using Python and AI models to extract themes and emotional tone.
+- Fine-tuned LLMs on sentiment datasets, achieving a 20% improvement in F1-score for customer feedback analysis.
+- Developed automated real-time dashboards to monitor customer sentiment and support rapid issue resolution.
+- Tech Stack: Mistral 7B, LLM Fine-Tuning, Prompt Engineering, MongoDB, Streamlit
 
 ### AI Engineer @ ELCOM Corp (Apr 2022 - Feb 2024)
-- Delivered on-premises chatbots for customers across multiple domains, enabling reliable and scalable enterprise solutions with domain-specific knowledge integration.
-Tech stack: Vector databases (MongoDB, ElasticSearch), LLMs (Llama-2-13B), vLLM (serving), LangChain/LangGraph (workflow orchestration), Retrieval-Augmented Generation, Prompt Engineering
-- Implemented ML models supporting Intelligent Transport System features including traffic violation detection and electronic toll collection systems deployed widely across Vietnam's highway network.
-Tech stack: YOLO, SAM, OpenCV, TensorRT, ONNX.
-- Deployed a Social Listening system that crawls social network data and applies LLMs to deliver insights on keyword trends, brand reputation, and customer campaign reactions. Delivered an interactive dashboard for real-time analysis and monitoring.
+- Implemented and deployed YOLO-based ML models for traffic violation detection and electronic toll collection systems, processing 1M+ vehicles daily across Vietnam's national highway network.
+- Optimized model inference using TensorRT and ONNX for edge deployment, achieving real-time performance of 30+ FPS on embedded devices.
+- Delivered on-premises enterprise Agentic AI Sales Assistant solutions using Retrieval-Augmented Generation (RAG) with Llama-2-13B, vLLM, LangChain, and LangGraph.
+- Built scalable vector database infrastructure using ElasticSearch for domain-specific knowledge retrieval.
+- Architected a real-time Social Listening system crawling 10+ social platforms and processing 500K+ posts daily using Apache Kafka and Spark.
 
-### AI Engineer @ Samsung Display Vietnam (Dec 2020 - Apr 2022)
+### AI Engineer @ Samsung Display Vietnam (Aug 2021 - Apr 2022)
 - Led team of 4 engineers to develop Deep Learning solution for automated defect detection in mobile display 
 manufacturing, replacing manual inspection process.
 - Deployed Transfer Learning-based UNet and YOLO models for marked region detection/segmentation on edge 
@@ -38,52 +36,57 @@ labor.
 
 ## 🛠️ Technical Skills
 
+### Agentic & LLM Engineering
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-4B0082?style=flat-square)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-6A0DAD?style=flat-square)
+ 
+### Computer Vision
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+ 
+### MLOps & Edge AI
+![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Triton Inference Server](https://img.shields.io/badge/-Triton-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+ 
+### Data Engineering
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+ 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-
-### Data Science & Analytics
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 
 
 ## 🎯 Personal Projects
 
+### Agentic AI Learning Companion Platform
+- Built an Agentic AI Learning Companion that transforms long lecture videos into structured, searchable knowledge with LLM-powered Q&A across course materials.
+- Designed a production-ready AI architecture with FastAPI (API layer), LiteLLM (LLM gateway), NVIDIA NeMo Guardrails (safety), Langfuse (observability), and RAG using ChromaDB.
+- Developed a data ingestion pipeline with Airflow to process lecture video/text data, generate embeddings, and store them in a vector database for retrieval.
+**Tech Stack:** CrewAI, ChromaDB, LiteLLM, Redis, FastAPI, Airflow
+ 
 ### Real-Time AFL Player Tracking and Insight Platform
-- Integrated SAM2 with Ultralytics for automatic frame annotation, training YOLO11 for player and ball detection, 
-and applied ByteTrack for multi-object tracking.
-- Developed additional OCR models for recognition of player jersey numbers, enhancing automated game analytics.
-- Developed post-analysis features including automatic player-focused camera generation, player heatmaps, and 
-performance statistics to support data-driven insights for coaches and analysts.
+- Integrated SAM2 with Ultralytics for automated frame annotation and trained YOLO11 models for player and ball detection.
+- Applied ByteTrack for multi-object tracking to follow players across frames in real-time sports footage.
+- Developed OCR models to recognize player jersey numbers for enhanced automated game analytics.
+- Built post-analysis features including player-focused camera generation, heatmaps, and performance statistics for coaching insights.
 **Tech Stack:** YOLO, ByteTrack, SAM2, Ultralytics
-
-### AI-Powered Retail Product Monitoring System
-- Trained a YOLO model on custom product datasets for accurate product detection.
-- Developed real-time monitoring features: alerts for mis-placed products, low-stock/out-of-stock warnings.
-- Optimized models using TensorRT 8-bit quantization for edge devices and deployed them with Triton Inference 
-Server for fast, scalable inference.
-**Tech Stack:** YOLO, FAISS, TensorRT, Triton Inference Server
-  
+ 
 ### AI-based Video Analysis for Traffic Monitoring
-- Built comprehensive traffic monitoring system with vehicle detection, tracking, and attribute extraction (class, color, 
-direction, license plate).
-- Implemented DeepSORT for multi-object tracking and OCR for license plate recognition with 88% accuracy.
-- Developed search functionality enabling queries by vehicle attributes and automated video summarization reducing 
-review time by 75%.
+- Developed a comprehensive traffic monitoring system with vehicle detection, tracking, and attribute extraction (class, color, direction, license plate).
+- Implemented DeepSORT for multi-object tracking and OCR for license plate recognition achieving **88% accuracy**.
+- Built search functionality enabling queries by vehicle attributes and automated video summarization reducing review time by **75%**.
 **Tech Stack:** YOLO, DeepSORT, OCR
 
 ## 🏆 Certifications
@@ -95,10 +98,10 @@ review time by 75%.
 
 ## 🌟 What I'm Working On
 
-- 🔍 **Advanced NLP Projects:** Applying large language models to solve real-world problems and creating AI agents
-- 📊 **Dashboard Development:** Creating interactive visualizations with Power BI and Python
-- 🤖 **AI Model Deployment:** Learning MLOps and model deployment best practices
-- 📚 **Continuous Learning:** Staying updated with latest AI/ML research and techniques
+- 🤖 **Agentic AI Systems:** Building multi-agent workflows and LLM-powered applications for real-world problems
+- 🔍 **Computer Vision Research:** Generative AI for synthetic data augmentation and wildlife conservation applications
+- ⚙️ **MLOps & Edge AI:** Optimizing and deploying models at scale with low-latency inference
+- 📚 **Continuous Learning:** Staying current with the latest AI/ML research and techniques
 
 ## 🤝 Let's Connect!
 
