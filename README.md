@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-I am an **AI Engineer** with 5 years of experience in Computer Vision and 2 years in NLP and Large Language Models, holding a Master’s degree in Artificial Intelligence. I specialize in solving business problems across multiple AI domains, including vision, language, and time-series, and deploying solutions to production environments. I work effectively both independently and as part of a team, with a strong passion for continuous learning.
-
+I am an **AI Engineer** with 5 years of experience in Computer Vision and 2 years in NLP and Large Language Models, hold a Master’s degree in Applied Artificial Intelligence from Deakin University with a High Distinction average. I specialize in translating business problems into scalable AI systems, including LLM-powered applications and AI agents deployed in production environments. I work effectively both independently and in collaborative teams, and I’m known for a strong growth mindset—approaching challenges as opportunities to learn, improve, and continuously expand my skills while building impactful AI solutions.
 ## 💼 Professional Experience
 
 ### Research Assistant @ Deakin University (Feb 2025 - Feb 2026)
